@@ -20,3 +20,5 @@ AUTH0_ISSUER=https://neu.us.auth0.com/
 3 different page, mobile & desktop
 uploaded in the accessbility-reports folder
 ```
+
+![屏幕截图 2024-04-25 150404](C:\Users\13545\source\repos\5610\movie_serach\屏幕截图 2024-04-25 150404.png)
