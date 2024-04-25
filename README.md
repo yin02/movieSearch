@@ -21,4 +21,5 @@ AUTH0_ISSUER=https://neu.us.auth0.com/
 uploaded in the accessbility-reports folder
 ```
 
-![屏幕截图 2024-04-25 150404](C:\Users\13545\source\repos\5610\movie_serach\屏幕截图 2024-04-25 150404.png)
+
+<img width="1851" alt="屏幕截图 2024-04-25 150404" src="https://github.com/yin02/movieSearch/assets/65695200/d3fe363f-c117-4341-85fb-40225c804795">
